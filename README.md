@@ -1,6 +1,6 @@
 # UTF Cleaner 🧼
 
-A *powerfull* package that removes non-UTF characters from a string.
+A *powerful* package that removes non-UTF characters from a string.
 
 ---
 
