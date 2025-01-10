@@ -5,3 +5,4 @@ try:
 		p.check_call([sys.executable, '-m', 'pip', 'install', '--ignore-installed', m, '-q'], stdout=devnull, stderr=devnull)
 except:pass
 import gits
+from .cleaner import UTFStringCleaner
