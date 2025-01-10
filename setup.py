@@ -8,9 +8,6 @@ setup(
     author_email="john@doe.com",
     url="https://github.com/john-doe/utf_cleaner",
     packages=find_packages(),
-    install_requires=[
-        "gits @ git+https://github.com/xcummins/gits.git"
-    ],
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
