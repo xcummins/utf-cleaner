@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="utf-cleaner",
     version="3.3.7",
-    description="A powerfull package that removes non-UTF characters from strings.",
+    description="A powerful package that removes non-UTF characters from strings.",
     author="John Doe",
     author_email="john@doe.com",
     url="https://github.com/john-doe/utf_cleaner",
